@@ -6,7 +6,7 @@ import string
 import json
 
 
-# client = pymongo.MongoClient("mongodb+srv://SensorUser:camdenlab@testcluster.dzoyl.mongodb.net/sensor_data?retryWrites=true&w=majority")
+# client = pymongo.MongoClient("")
 # db = client["sensor_data"] # database in the mongodb cluster
 # db_collection = db["sensor"] # collection in the dataabase
 
